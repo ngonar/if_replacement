@@ -1,0 +1,9 @@
+com\ngonar\if_replacement\InternalMessageFormat.class
+com\ngonar\if_replacement\mods\pln\postpaid\PlnPostpaidService.class
+com\ngonar\if_replacement\If_replacement.class
+com\ngonar\if_replacement\Service.class
+com\ngonar\if_replacement\Switch.class
+com\ngonar\if_replacement\mods\pln\prepaid\PlnPrepaidService.class
+com\ngonar\if_replacement\PelangiService.class
+com\ngonar\if_replacement\Switching.class
+com\ngonar\if_replacement\mods\pln\nontaglis\PlnNontaglisService.class
